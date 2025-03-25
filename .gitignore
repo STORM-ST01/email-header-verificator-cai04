@@ -1,0 +1,15 @@
+# Ignorar el entorno virtual
+venv/
+mi_entorno/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de dependencias
+pip-log.txt
+pip-delete-this-directory.txt
